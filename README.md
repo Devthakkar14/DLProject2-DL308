@@ -4,13 +4,13 @@ This project is part of NYU's Spring 2025 Deep Learning course. We finetuned a f
 
 ---
 
-## 📊 Final Results
-- ✅ **Validation Accuracy:** 92.81%
-- 🧠 **Trainable Parameters:** 925,444
-- 📉 Trained for 4 epochs with cosine decay, warmup 0.1
+## Final Results
+- **Validation Accuracy:** 92.81%
+- **Trainable Parameters:** 925,444
+- Trained for 4 epochs with cosine decay, warmup 0.1
 
 ---
 
-## 📦 Requirements
+## Requirements
 ```bash
 pip install transformers datasets peft evaluate accelerate
